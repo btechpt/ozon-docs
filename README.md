@@ -2,7 +2,7 @@ Ozon Documentation
 =======
 
 ## Web Access
-https://docs-ozon.btech.id/
+https://ozon-docs.btech.id/
 
 
 ## Installation
