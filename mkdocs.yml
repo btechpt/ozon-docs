@@ -62,8 +62,8 @@ nav:
               - Notification center: notification.md
               - Email configuration: email_configuration.md
           - Centralized Region:
-              - CRUD Region: ''
-              - Move Region: ''
+              - CRUD Region: crud-region.md
+              - Switch Region: move-region.md
           - Theme Setting: ''
   - Repository: 'https://github.com/btechpt'
   - Demo: 'https://btech.id'
