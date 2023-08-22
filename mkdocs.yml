@@ -64,7 +64,7 @@ nav:
           - Centralized Region:
               - CRUD Region: crud-region.md
               - Switch Region: move-region.md
-          - Theme Setting: ''
+          - Theme Setting: theme-setting.md
   - Repository: 'https://github.com/btechpt'
   - Demo: 'https://btech.id'
 
